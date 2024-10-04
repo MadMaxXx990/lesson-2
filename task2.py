@@ -1,5 +1,5 @@
-name = input("Fruit Name : ")
 list = ["banana","apple","orange","mango"]
+name = input("Fruit Name : ")
 
 for i in (list) :
     if name == "banana" :
